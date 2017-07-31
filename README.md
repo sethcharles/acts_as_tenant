@@ -1,6 +1,9 @@
 Acts As Tenant
 ==============
 
+**Fork to merge in the sidekiq middleware fix from MarceloAlves, along with the rails 5 fix from tmaier.
+
+
 [![Build Status](https://travis-ci.org/ErwinM/acts_as_tenant.png)](https://travis-ci.org/ErwinM/acts_as_tenant)
 
 **Note**: acts_as_tenant was introduced in this [blog post](http://www.rollcallapp.com/blog/2011/10/03/adding-multi-tenancy-to-your-rails-app-acts-as-tenant).
